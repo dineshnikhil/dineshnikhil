@@ -5,7 +5,7 @@
 <h5 align="center">
 I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of AIML, from UPES  Dehradun. I am a Data Science enthusiast, web developer, and Photographer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left">  </p>
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
