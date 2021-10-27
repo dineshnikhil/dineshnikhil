@@ -7,7 +7,6 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies wi
 </h5>
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
-<h2>I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of AIML, from UPES  Dehradun. I am a Data Science enthusiast, web developer, and Photographer.</h2>
 <img align="right" height="350" width="400" src="https://raw.githubusercontent.com/dineshnikhil/assets/main/Working%20from%20anywhere.gif" /> </a>
 </p>
 
