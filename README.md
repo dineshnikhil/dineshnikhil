@@ -13,8 +13,6 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies wi
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
-
 - 📫 How to reach me **ishikakesarwani2000@gmail.com**
 <br><br>
 <hr>
