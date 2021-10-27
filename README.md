@@ -5,13 +5,12 @@
 <h5 align="center">
 I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of AIML, from UPES  Dehradun. I am a Data Science enthusiast, web developer, and Photographer. 
 </h5>
-<p align="left">  </p>
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
 <img align="right" height="350" width="400" src="https://raw.githubusercontent.com/dineshnikhil/assets/main/Working%20from%20anywhere.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
+
 
 - 📫 How to reach me **ishikakesarwani2000@gmail.com**
 <br><br>
