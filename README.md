@@ -19,6 +19,12 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies wi
 <br><br>
 <hr>
 
+<h3 align="center">My Tech Stack</h3>
+<p align="center">
+         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo db icon" height="50" width="50" /></a>    
+</p>
+<hr>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
