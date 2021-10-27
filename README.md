@@ -21,7 +21,12 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies wi
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
-         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo db icon" height="50" width="50" /></a>    
+         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo db icon" height="50" width="50" /></a>
+         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="mongo db icon" height="50" width="50" /></a>
+         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="mongo db icon" height="50" width="50" /></a>
+         <a><img align="center" src="https://https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="mongo db icon" height="50" width="50" /></a>
+         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="mongo db icon" height="50" width="50" /></a>
+         <a><img align="center" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="mongo db icon" height="50" width="50" /></a>
 </p>
 <hr>
 
