@@ -31,9 +31,10 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies wi
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 
 <hr>
