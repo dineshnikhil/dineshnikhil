@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Dinesh Nikhil</h1>
 <h3 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of AIML, from UPES  Dehradun. I am a Data Science enthusiast, web developer, and Photographer. 
+I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of WEB DEV, from BBCIT Hyderabad. I am a Data Science enthusiast, web developer, and Blockchain Developer. 
 </h3>
 <p>
 <a align= "center" href="https://github.com/dineshnikhil">
@@ -27,10 +27,10 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies wi
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="ishikakesarwan4" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ishika kesarwani" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="wth_ishiii" height="30" width="30" /></a>
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="wth_ishiii" height="30" width="30" /></a>
+<a href="https://twitter.com/DekuMedoria59" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="dineshNikhil" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ishika kesarwani" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/dineshnikhil.dev" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="wth_ishiii" height="30" width="30" /></a>
+<a href="https://www.reddit.com/user/dinesh059" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="wth_ishiii" height="30" width="30" /></a>
 </p>
 
 <hr>
