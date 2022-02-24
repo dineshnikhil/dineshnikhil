@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dineshnikhil/static/css/main.e8bdfbe6.css",
+    "main.js": "/dineshnikhil/static/js/main.5fe9b223.js",
+    "static/js/787.e8c6061e.chunk.js": "/dineshnikhil/static/js/787.e8c6061e.chunk.js",
+    "static/media/Connected world.gif": "/dineshnikhil/static/media/Connected world.f96936e6c33af666143f.gif",
+    "static/media/Binary code.gif": "/dineshnikhil/static/media/Binary code.878e43d835f9ee5fd353.gif",
+    "static/media/Creativity2.gif": "/dineshnikhil/static/media/Creativity2.948aa22c612c9e0a9a7a.gif",
+    "static/media/Frame 8.jpg": "/dineshnikhil/static/media/Frame 8.6988d1d411ae0619d84f.jpg",
+    "index.html": "/dineshnikhil/index.html",
+    "main.e8bdfbe6.css.map": "/dineshnikhil/static/css/main.e8bdfbe6.css.map",
+    "main.5fe9b223.js.map": "/dineshnikhil/static/js/main.5fe9b223.js.map",
+    "787.e8c6061e.chunk.js.map": "/dineshnikhil/static/js/787.e8c6061e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8bdfbe6.css",
+    "static/js/main.5fe9b223.js"
+  ]
+}
