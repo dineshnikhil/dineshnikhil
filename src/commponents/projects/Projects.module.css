@@ -1,0 +1,11 @@
+.projects-main-div {
+	padding: 7% 15%;
+	color: var(--font-color);
+}
+
+/* MOBILE VERSION SCREEN ADJUSTMENT STYLING */
+@media (min-width: 320px) and (max-width: 425px) {
+	.projects-main-div {
+		padding: 23% 6% 5% 6%;
+	}
+}

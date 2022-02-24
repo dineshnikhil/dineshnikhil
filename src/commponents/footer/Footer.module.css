@@ -1,0 +1,71 @@
+.footer {
+	width: 100%;
+	padding: 7%;
+	background-color: var(--font-color);
+	color: var(--bg-color);
+}
+
+.footer-main-div {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(1, 1fr);
+	grid-gap: 10rem;
+
+	margin-bottom: 4%;
+}
+
+.footer h1 {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.footer-brand {
+	color: var(--primary-color);
+	font-size: 3rem;
+	font-family: 'Odibee Sans', cursive;
+}
+
+.footer li {
+	font-weight: bold;
+	color: var(--secondary-color);
+}
+
+.footer-social-links {
+	font-size: 1.5rem;
+	margin-right: 5%;
+}
+
+.footer-last {
+	margin-top: 4%;
+	text-align: center;
+}
+
+.footer hr {
+	font-weight: bold;
+	color: black;
+}
+
+.footer h3 {
+	margin: 1% 0%;
+}
+
+/* MOBILE VERSION SCREEN ADJUSTMENT STYLING */
+@media (min-width: 320px) and (max-width: 425px) {
+	.footer-main-div {
+		grid-template-columns: repeat(1, 1fr);
+		grid-gap: 2rem;
+	}
+
+	.footer-social-links {
+		font-size: 1.5rem;
+		margin-right: 5%;
+	}
+
+	.footer-last {
+		margin-top: 12%;
+	}
+
+	.footer h3 {
+		margin: 5% 0%;
+	}
+}

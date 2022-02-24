@@ -1,0 +1,109 @@
+.nav {
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem 3.5rem;
+
+	width: 100%;
+	position: fixed;
+	top: 0;
+
+	color: var(--font-color);
+	background-color: var(--bg-color);
+}
+
+.brand {
+	font-size: 2rem;
+	font-weight: normal;
+	color: #682ae9;
+	font-family: 'Odibee Sans', cursive;
+
+	letter-spacing: 1px;
+}
+
+.nav-one-div {
+}
+
+.nav-two-div {
+	width: 50%;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.nav-two-div button {
+	display: block;
+}
+
+.nav-list {
+	display: flex;
+	justify-content: space-between;
+	width: 50%;
+}
+
+.nav-link {
+	color: var(--font-color);
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+.nav-link:hover {
+	color: var(--primary-color);
+	cursor: pointer;
+}
+
+.nav-social-link {
+	color: var(--primary-color);
+	font-size: 1.5rem;
+	font-weight: lighter;
+}
+
+.nav-social-link:hover {
+	color: var(--font-color);
+	cursor: pointer;
+}
+
+.hamberger {
+	display: none;
+	color: var(--primary-color);
+	font-size: 1.8rem;
+	font-weight: normal;
+}
+
+/* MOBILE VERSION SCREEN ADJUSTMENT STYLING */
+@media (min-width: 320px) and (max-width: 425px) {
+	.nav-list {
+		display: none;
+	}
+
+	.brand {
+		font-size: 1.8rem;
+	}
+
+	.nav {
+		padding: 1rem 1.5rem;
+	}
+
+	.nav-two-div {
+		width: 50%;
+		padding-top: 2%;
+	}
+
+	.nav-social-link {
+		font-size: 1.5rem;
+	}
+
+	.hamberger {
+		display: block;
+	}
+
+	.nav-social-link {
+		color: var(--font-color);
+		font-size: 1.5rem;
+		font-weight: lighter;
+		padding-top: 15%;
+	}
+
+	.nav-social-link:hover {
+		color: var(--font-color);
+		cursor: pointer;
+	}
+}
