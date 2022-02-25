@@ -5,7 +5,7 @@ import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
 import classes from './About.module.css';
 
 // resume importing
-import resume from '../images/Dinesh_Resume.pdf'
+import resume from '../images/DineshResume.pdf'
 
 function About() {
   return (
