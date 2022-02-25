@@ -21,10 +21,10 @@ function WellcomeMsg(props) {
           <div className={classes['msg-two-div']}>
             <h1>Dinesh Kumar Pokkula</h1>
             <h2>Hey! it's sooo nice to see your here!</h2>
-            <FontAwesomeIcon className={classes['msg-social-links']} icon={faGithub} />
-            <FontAwesomeIcon className={classes['msg-social-links']} icon={faLinkedinIn} />
-            <FontAwesomeIcon className={classes['msg-social-links']} icon={faInstagram} />
-            <FontAwesomeIcon className={classes['msg-social-links']} icon={faTwitter} />
+            <a href='https://github.com/dineshnikhil' target="_blank"><FontAwesomeIcon className={classes['msg-social-links']} icon={faGithub} /></a>
+            <a href='https://www.linkedin.com/in/dinesh-kumar-p-8677271a1/' target="_blank"><FontAwesomeIcon className={classes['msg-social-links']} icon={faLinkedinIn} /></a>
+            <a href='https://www.instagram.com/dineshnikhil.dev/' target='_blank'><FontAwesomeIcon className={classes['msg-social-links']} icon={faInstagram} /></a>
+            <a href='https://twitter.com/DekuMedoria59' target='_blank'><FontAwesomeIcon className={classes['msg-social-links']} icon={faTwitter} /></a>
           </div>
         </div>
     </Modal>

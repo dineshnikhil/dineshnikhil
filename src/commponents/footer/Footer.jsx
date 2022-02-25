@@ -27,19 +27,19 @@ function Footer() {
             <div>
                 <h2 className={classes['footer-brand']}>DineshNikhil</h2>
                 <div>
-                <FontAwesomeIcon className={classes['footer-social-links']} icon={faInstagram} />
-                <FontAwesomeIcon className={classes['footer-social-links']} icon={faLinkedinIn} />
-                <FontAwesomeIcon className={classes['footer-social-links']} icon={faGithub} />
+                <a href='https://www.instagram.com/dineshnikhil.dev/' target='_blank'><FontAwesomeIcon className={classes['footer-social-links']} icon={faInstagram} /></a>
+                <a href='https://www.linkedin.com/in/dinesh-kumar-p-8677271a1/' target="_blank"><FontAwesomeIcon className={classes['footer-social-links']} icon={faLinkedinIn} /></a>
+                <a href='https://github.com/dineshnikhil' target="_blank"><FontAwesomeIcon className={classes['footer-social-links']} icon={faGithub} /></a>
                 </div>
             </div>
             <div>
                 <h1>Useful Links</h1>
                 <ul>
-                    <li>Home</li>
-                    <li>about</li>
-                    <li>skills</li>
-                    <li>projects</li>
-                    <li>contact</li>
+                    <a href='#home'><li>Home</li></a>
+                    <a href='#about'><li>about</li></a>
+                    <a href='#skills'><li>skills</li></a>
+                    <a href='#projects'><li>projects</li></a>
+                    <a href='#contact'><li>contact</li></a>
                 </ul>
             </div>
         </div>

@@ -11,7 +11,7 @@ const Backdrop = (props) => {
 const ModalOverlay = (props) => {
     return (
         <div className={classes.modal}>
-            <button onClick={props.closeMsg}><FontAwesomeIcon icon={faXmark} /></button>
+            <button onClick={props.closeMsg} className={classes['cross-icon']}><FontAwesomeIcon icon={faXmark} /></button>
             <div className={classes.content}>
                 {props.children}
             </div>

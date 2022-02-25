@@ -30,9 +30,17 @@
 	color: var(--secondary-color);
 }
 
+.footer li:hover {
+	color: var(--bg-color);
+}
+
 .footer-social-links {
 	font-size: 1.5rem;
 	margin-right: 5%;
+}
+
+.footer-social-links:hover {
+	color: var(--secondary-color);
 }
 
 .footer-last {

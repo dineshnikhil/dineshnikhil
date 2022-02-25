@@ -21,8 +21,8 @@ function Nav(props) {
                 <a href='#contact'><li className={classes['nav-link']}>.contact()</li></a>
             </ul>
             {/* EXTRA FEATURES LINKS AND BUTTONS */}
-            <a><FontAwesomeIcon className={classes['nav-social-link']} icon={faLinkedinIn} /></a>
-            <a><FontAwesomeIcon className={classes['nav-social-link']} icon={faGithub} /></a>
+            <a href='https://www.linkedin.com/in/dinesh-kumar-p-8677271a1/' target="_blank"><FontAwesomeIcon className={classes['nav-social-link']} icon={faLinkedinIn} /></a>
+            <a href='https://github.com/dineshnikhil' target="_blank"><FontAwesomeIcon className={classes['nav-social-link']} icon={faGithub} /></a>
             <button onClick={props.showNav}><FontAwesomeIcon className={classes['hamberger']} icon={faGripLines} /></button>
         </div>
     </nav>

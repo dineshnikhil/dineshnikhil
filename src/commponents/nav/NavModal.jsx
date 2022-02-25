@@ -12,7 +12,7 @@ const Backdrop = (props) => {
 const NavModalOverlay = (props) => {
   return (
       <div className={classes.modal}>
-          <button onClick={props.closeNav}><FontAwesomeIcon icon={faXmark} /></button>
+          <button onClick={props.closeNav} className={classes['cross-icon']}><FontAwesomeIcon icon={faXmark} /></button>
           <div className={classes['nav-content']}>
               <ul>
                 <a href='#home' onClick={props.closeNav}><li>Home</li></a>

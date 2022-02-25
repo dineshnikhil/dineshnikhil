@@ -11,7 +11,7 @@ const Backdrop = (props) => {
 const ModalOverlay = (props) => {
     return (
         <div className={classes.modal}>
-            <button onClick={props.onCloseStack}><FontAwesomeIcon icon={faXmark} /></button>
+            <button onClick={props.onCloseStack} className={classes['cross-icon']}><FontAwesomeIcon icon={faXmark} /></button>
             <div className={classes.content}>
                 <h1 className='text-[#682ae9] text-xl font-semibold mb-4'>Tech Stack used in this app!</h1>
                 <h2 className='text-black font-semibold text-lg'>FrontEnd</h2>

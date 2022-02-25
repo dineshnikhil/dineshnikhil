@@ -22,6 +22,17 @@
 	animation: slide-down 300ms ease-out forwards;
 }
 
+.cross-icon {
+	font-size: 1.8rem;
+	color: var(--secondary-color);
+	margin-left: 97%;
+	margin-bottom: 10%;
+}
+
+.cross-icon:hover {
+	color: var(--primary-color);
+}
+
 @media (min-width: 768px) {
 	.modal {
 		width: 40rem;
@@ -37,5 +48,14 @@
 	to {
 		opacity: 1;
 		transform: translateY(0);
+	}
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+	.cross-icon {
+		font-size: 1.8rem;
+		color: var(--secondary-color);
+		margin-left: 90%;
+		margin-bottom: 3%;
 	}
 }
