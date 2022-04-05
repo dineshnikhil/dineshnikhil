@@ -1,6 +1,6 @@
 import React from 'react'
 // import workImg from '../images/work.svg'
-import workImg from '../images/Binary code.gif'
+import workImg from '../images/Hand coding.gif'
 import classes from './Home.module.css'
 
 function Home() {

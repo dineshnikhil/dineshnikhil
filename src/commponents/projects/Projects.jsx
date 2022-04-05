@@ -14,7 +14,8 @@ function Projects() {
         <h1 className='text-[2rem] sm:text-5xl'>.projects(<span className='text-[#682AE9]'>'selected'</span>)</h1>
         {/* INNER SECTION */}
         <div className='py-4 mt-4 sm:py-12'>
-            <div className='flex snap-x overflow-x-auto space-x-8 py-4 px-8 scroll-auto sm:px-80'>
+            {/* <div className='flex snap-x overflow-x-auto space-x-8 py-4 px-8 scroll-auto sm:px-80'> */}
+            <div className='flex flex-wrap justify-around'>
                 {projectsData.map(project => {
                     return <ProjectCard project={project} />
                 })}

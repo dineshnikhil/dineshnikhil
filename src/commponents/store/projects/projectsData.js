@@ -28,6 +28,12 @@ const projectsData = [
         info: "This is the Personal training protfolio web application which was build by using the react.js.",
         url: "https://dineshnikhil.github.io/trainingPortfolio/",
         codeUrl: "https://github.com/dineshnikhil/trainingPortfolio/tree/master"
+    },
+    {
+        name: "Online Password Manager",
+        info: "This is the online password manager where you can store all the different apps passwords securly and you don't have remember them. And also we encrypted the data securly.",
+        url: "https://dineshnikhil.github.io/storePassword/",
+        codeUrl: "https://github.com/dineshnikhil/storePassword/tree/master"
     }
 ]
 
