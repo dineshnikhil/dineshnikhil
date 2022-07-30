@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Hyderabad, Telangana,India
-* 🖥️  See my portfolio at [dineshnikhil.dev](http://dineshnikhil.github.io/dineshnikhil/)
+* 🖥️  See my portfolio at [dineshnikhil.com](http://dineshnikhil.com/dineshnikhil/)
 * ✉️  You can contact me at [dineshkumarpokkula@gmail.com](mailto:dineshkumarpokkula@gmail.com)
 * 🚀  I'm currently working on [storePassword](http://dineshnikhil.github.io/storePassword)
 * 🧠  I'm learning Next.js, DSA
