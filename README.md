@@ -9,4 +9,4 @@ Hi 👋 My name is Dinesh Kumar Pokkula
 ### :fire: My Stats :
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dineshnikhil&&theme=dark&show_icons=true)](https://git.io/streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dineshnikhil&&theme=light&show_icons=true)](https://git.io/streak-stats" />
